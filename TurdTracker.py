@@ -17,6 +17,8 @@ Environment Variables:
 	TURDTRACKER_FACEBOOK_PAGE_ID
 	TURDTRACKER_FACEBOOK_API_VERSION
 
+Requires requests module: https://github.com/kennethreitz/requests
+
 This code was written using Linux Mint 17.1 Cinnamon 64-bit  
 and has been designed to run on Linux.
 *****************************************************************
